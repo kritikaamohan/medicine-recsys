@@ -2,7 +2,7 @@
 
 A machine-learning app that takes a user's symptoms and basic profile, predicts the most likely conditions, and suggests top-rated medicines from real patient reviews.
 
-**Live app:** <paste your .streamlit.app link here>
+**Live app:** (https://kritikamohan-medicine-recsys.streamlit.app/)
 
 > ⚠️ **Disclaimer:** This project is for educational purposes only. It is decision support, not medical advice. Always consult a doctor or pharmacist before taking any medicine.
 
