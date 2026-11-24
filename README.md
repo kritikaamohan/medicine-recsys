@@ -1,8 +1,8 @@
-# MediGuide: Personalized Symptom & Medicine Guide
+# 💊 MediGuide: Personalized Symptom & Medicine Guide
 
 A patient-facing web app that takes a person's symptoms, age, and medicine allergies, then shows the most likely matching conditions, simple self-care tips, and medicines that other patients rated well.
 
-**Live app:** <paste your .streamlit.app link here>
+**Live app:** https://kritikamohan-medicine-recsys.streamlit.app/
 
 > ⚠️ **Disclaimer:** MediGuide is an educational project. It gives general information only and is not a diagnosis or medical advice. Always check with a doctor or pharmacist before taking any medicine.
 
