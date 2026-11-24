@@ -1,4 +1,4 @@
-# 💊 MediGuide: Personalized Symptom & Medicine Guide
+# MediGuide: Personalized Symptom & Medicine Guide
 
 A patient-facing web app that takes a person's symptoms, age, and medicine allergies, then shows the most likely matching conditions, simple self-care tips, and medicines that other patients rated well.
 
