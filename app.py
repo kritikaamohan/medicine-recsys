@@ -108,7 +108,7 @@ def summary_text(res):
 
 
 # ------------------------------------------------------------------ header
-st.title("💊 MediGuide")
+st.title("MediGuide")
 st.caption("Tell us how you feel and get general guidance, simple self-care tips, and "
            "medicines other patients rated well.")
 st.info(DISCLAIMER)
