@@ -1,0 +1,438 @@
+disease,drugName,n_reviews,mean_rating,w_sum,wr_sum,wmean,prior,score,rank
+AIDS,Cobicistat / elvitegravir / emtricitabine / tenofovir,23,9.522,88.109,848.268,9.627,8.797,9.479,1
+AIDS,Stribild,16,9.438,53.782,505.697,9.403,8.797,9.259,2
+AIDS,Abacavir / lamivudine,3,10.0,7.605,76.052,10.0,8.797,9.248,3
+AIDS,Truvada,3,9.667,8.257,79.09,9.578,8.797,9.09,4
+AIDS,Efavirenz / emtricitabine / tenofovir,23,9.087,79.767,729.426,9.144,8.797,9.082,5
+AIDS,Atripla,23,9.0,76.312,697.807,9.144,8.797,9.082,6
+AIDS,Triumeq,15,8.8,50.323,453.876,9.019,8.797,8.964,7
+AIDS,Dolutegravir,5,8.8,10.481,95.628,9.124,8.797,8.961,8
+AIDS,Tivicay,6,8.833,11.075,99.593,8.992,8.797,8.904,9
+AIDS,Abacavir / dolutegravir / lamivudine,18,9.0,61.92,549.797,8.879,8.797,8.861,10
+AIDS,Complera,10,8.5,32.897,287.664,8.744,8.797,8.762,11
+AIDS,Emtricitabine / rilpivirine / tenofovir,7,8.0,24.643,206.135,8.365,8.797,8.545,12
+AIDS,Raltegravir,5,7.4,11.303,85.902,7.6,8.797,8.199,13
+AIDS,Cobicistat / elvitegravir / emtricitabine / tenofovir alafenamide,14,8.071,45.985,367.0,7.981,8.797,8.196,14
+AIDS,Genvoya,12,7.917,34.121,252.248,7.393,8.797,7.806,15
+Acne,Bactrim,14,9.286,59.329,556.197,9.375,7.369,8.847,1
+Acne,Claravis,30,8.867,110.441,984.564,8.915,7.369,8.694,2
+Acne,Benzoyl peroxide / clindamycin,94,8.426,291.864,2523.353,8.646,7.369,8.581,3
+Acne,Sulfacetamide sodium / sulfur,5,9.6,19.856,191.03,9.621,7.369,8.495,4
+Acne,Accutane,110,8.391,427.609,3627.659,8.484,7.369,8.435,5
+Acne,Benzaclin,12,8.833,38.461,339.697,8.832,7.369,8.402,6
+Acne,Retin-A,10,8.9,45.838,408.796,8.918,7.369,8.402,7
+Acne,Isotretinoin,165,8.267,567.353,4776.172,8.418,7.369,8.387,8
+Acne,Tazarotene,3,10.0,8.338,83.375,10.0,7.369,8.355,9
+Acne,Tazorac,3,10.0,13.783,137.826,10.0,7.369,8.355,10
+Acne,Spironolactone,60,8.083,235.896,1962.984,8.321,7.369,8.248,11
+Acne,Sulfamethoxazole / trimethoprim,32,8.062,116.421,962.822,8.27,7.369,8.148,12
+Acne,Tretinoin,76,7.987,291.628,2385.287,8.179,7.369,8.129,13
+Acne,Epiduo,89,7.921,293.689,2380.683,8.106,7.369,8.067,14
+Acne,Atralin,8,8.25,36.663,309.429,8.44,7.369,8.028,15
+Acne,Zenatane,3,9.0,6.871,62.416,9.084,7.369,8.012,16
+Acne,Clindamycin / tretinoin,32,7.656,99.498,796.882,8.009,7.369,7.922,17
+Acne,Differin,42,7.786,168.097,1340.994,7.977,7.369,7.913,18
+Acne,Duac,40,7.75,134.651,1069.261,7.941,7.369,7.877,19
+Acne,Clindamycin,17,7.765,68.036,545.035,8.011,7.369,7.865,20
+Acne,Yaz,29,7.655,104.208,820.661,7.875,7.369,7.801,21
+Acne,Dapsone,46,7.587,167.221,1305.313,7.806,7.369,7.763,22
+Acne,Ziana,19,7.474,61.298,478.346,7.804,7.369,7.713,23
+Acne,Aczone,39,7.359,148.578,1149.992,7.74,7.369,7.698,24
+Acne,Doryx,7,7.857,25.943,204.833,7.896,7.369,7.676,25
+Acne,Benzoyl peroxide / erythromycin,5,7.6,17.34,135.874,7.836,7.369,7.602,26
+Acne,Yasmin,24,7.167,83.906,635.709,7.576,7.369,7.541,27
+Acne,Tri-Sprintec,15,7.067,48.127,363.798,7.559,7.369,7.511,28
+Acne,Ocella,7,7.429,16.036,122.031,7.61,7.369,7.509,29
+Acne,Adapalene / benzoyl peroxide,150,7.247,463.507,3471.966,7.491,7.369,7.487,30
+Acne,Benzoyl peroxide,4,7.25,13.001,98.241,7.556,7.369,7.452,31
+Acne,Monodox,6,7.333,25.022,187.752,7.503,7.369,7.442,32
+Acne,Azelaic acid,8,6.875,28.697,210.768,7.345,7.369,7.354,33
+Acne,Drospirenone / ethinyl estradiol,68,7.118,203.897,1492.363,7.319,7.369,7.323,34
+Acne,Beyaz,7,7.286,23.196,168.782,7.276,7.369,7.315,35
+Acne,Amnesteem,4,7.0,12.466,89.436,7.174,7.369,7.282,36
+Acne,Doxycycline,139,7.014,481.791,3485.868,7.235,7.369,7.24,37
+Acne,Veltin,7,6.571,23.596,167.382,7.094,7.369,7.208,38
+Acne,Acanya,10,7.0,36.604,257.248,7.028,7.369,7.141,39
+Acne,Gianvi,8,6.375,25.244,175.001,6.932,7.369,7.1,40
+Acne,Ortho Tri-Cyclen,8,6.375,25.054,169.794,6.777,7.369,7.005,41
+Acne,Drospirenone / ethinyl estradiol / levomefolate calcium,6,7.167,16.466,108.972,6.618,7.369,6.959,42
+Acne,Adapalene,62,6.629,212.745,1472.348,6.921,7.369,6.954,43
+Acne,Minocin,4,6.0,14.522,91.511,6.302,7.369,6.894,44
+Acne,Solodyn,24,6.583,92.467,622.457,6.732,7.369,6.842,45
+Acne,Ethinyl estradiol / norgestimate,55,5.836,154.381,1043.034,6.756,7.369,6.807,46
+Acne,Minocycline,101,6.188,316.881,2078.164,6.558,7.369,6.596,47
+Acne,TriNessa,17,5.882,41.484,261.793,6.311,7.369,6.551,48
+Acne,Microgestin Fe 1 / 20,5,4.8,14.441,82.356,5.703,7.369,6.536,49
+Acne,Bactrim DS,5,5.0,13.868,77.276,5.572,7.369,6.471,50
+Acne,Loryna,5,5.2,10.886,57.222,5.256,7.369,6.313,51
+Acne,Junel Fe 1 / 20,3,4.0,8.541,36.613,4.287,7.369,6.213,52
+Acne,Loestrin 24 Fe,21,3.429,63.813,234.081,3.668,7.369,4.38,53
+Acne,Ethinyl estradiol / norethindrone,40,3.5,107.641,411.404,3.822,7.369,4.216,54
+Allergy,Dexbrompheniramine / pseudoephedrine,5,10.0,16.94,169.396,10.0,6.52,8.26,1
+Allergy,Chlorpheniramine,5,9.8,18.839,184.995,9.82,6.52,8.17,2
+Allergy,Hydroxyzine,4,10.0,16.032,160.317,10.0,6.52,8.067,3
+Allergy,Chlor-Trimeton,5,9.2,19.571,180.637,9.23,6.52,7.875,4
+Allergy,Cyproheptadine,4,9.5,16.216,153.867,9.489,6.52,7.839,5
+Allergy,Chlorpheniramine / pseudoephedrine,3,10.0,8.481,84.806,10.0,6.52,7.825,6
+Allergy,Patanase,3,10.0,11.15,111.505,10.0,6.52,7.825,7
+Allergy,QNASL,3,9.0,7.277,66.471,9.135,6.52,7.5,8
+Allergy,Mometasone,12,7.917,44.59,351.018,7.872,6.52,7.474,9
+Allergy,Diphenhydramine,8,8.0,25.197,203.32,8.069,6.52,7.473,10
+Allergy,Cetirizine,28,7.286,92.711,692.712,7.472,6.52,7.328,11
+Allergy,Astelin,3,8.333,12.541,107.986,8.611,6.52,7.304,12
+Allergy,Benadryl Allergy,4,7.0,15.322,120.495,7.864,6.52,7.117,13
+Allergy,Azelastine / fluticasone,18,6.944,57.534,416.81,7.245,6.52,7.087,14
+Allergy,Astepro,4,7.75,16.011,123.672,7.724,6.52,7.055,15
+Allergy,Budesonide,3,7.667,10.591,83.528,7.887,6.52,7.032,16
+Allergy,Ciclesonide,3,7.667,7.787,60.594,7.781,6.52,6.993,17
+Allergy,Olopatadine,4,7.5,13.632,101.695,7.46,6.52,6.938,18
+Allergy,Desloratadine,4,7.0,8.382,62.363,7.44,6.52,6.929,19
+Allergy,Fexofenadine / pseudoephedrine,8,6.25,21.138,147.783,6.991,6.52,6.81,20
+Allergy,Dymista,16,6.938,52.017,352.013,6.767,6.52,6.708,21
+Allergy,Xyzal,26,6.538,100.69,672.876,6.683,6.52,6.656,22
+Allergy,Allegra,13,6.385,44.355,296.337,6.681,6.52,6.636,23
+Allergy,Allegra-D 24 Hour,3,6.0,9.537,61.981,6.499,6.52,6.512,24
+Allergy,Azelastine,13,6.154,46.021,297.814,6.471,6.52,6.485,25
+Allergy,Fluticasone,10,5.7,34.598,209.215,6.047,6.52,6.205,26
+Allergy,Claritin-D,3,5.0,11.625,63.059,5.425,6.52,6.109,27
+Allergy,Montelukast,21,5.286,91.309,544.546,5.964,6.52,6.071,28
+Allergy,Loratadine / pseudoephedrine,5,6.0,18.085,100.355,5.549,6.52,6.034,29
+Allergy,Prednisone,6,5.167,23.543,131.502,5.586,6.52,6.01,30
+Allergy,Loratadine,9,5.778,33.248,189.663,5.704,6.52,5.996,31
+Allergy,Fexofenadine,15,5.667,45.222,260.925,5.77,6.52,5.957,32
+Allergy,Zyrtec,24,5.833,96.137,556.113,5.785,6.52,5.911,33
+Allergy,Nasonex,7,5.571,25.122,132.403,5.27,6.52,5.791,34
+Allergy,Triamcinolone,13,5.385,42.731,219.377,5.134,6.52,5.519,35
+Allergy,Levocetirizine,28,4.929,104.242,553.003,5.305,6.52,5.489,36
+Allergy,Nasacort Allergy 24HR,3,4.667,4.792,17.178,3.585,6.52,5.419,37
+Allergy,Singulair,13,4.923,58.131,288.569,4.964,6.52,5.396,38
+Allergy,Flonase,14,4.429,54.658,246.644,4.513,6.52,5.041,39
+Allergy,Nasacort,11,3.909,35.89,145.783,4.062,6.52,4.83,40
+Arthritis,Celecoxib,9,9.222,42.657,394.11,9.239,7.222,8.519,1
+Arthritis,Prednisone,7,8.857,33.356,304.735,9.136,7.222,8.338,2
+Arthritis,Vicodin,4,9.75,22.068,214.789,9.733,7.222,8.338,3
+Arthritis,Infliximab,9,8.0,34.688,299.565,8.636,7.222,8.131,4
+Arthritis,Remicade,7,8.286,24.128,207.628,8.605,7.222,8.029,5
+Arthritis,Enbrel,24,8.0,113.541,919.693,8.1,7.222,7.949,6
+Arthritis,Actemra,3,7.667,12.713,110.416,8.685,7.222,7.771,7
+Arthritis,Naproxen,3,8.667,11.831,102.479,8.662,7.222,7.762,8
+Arthritis,Simponi,9,7.889,36.163,290.359,8.029,7.222,7.741,9
+Arthritis,Celebrex,3,8.667,12.979,110.452,8.51,7.222,7.705,10
+Arthritis,Orencia,3,8.333,15.924,133.447,8.38,7.222,7.656,11
+Arthritis,Golimumab,9,7.667,33.106,260.449,7.867,7.222,7.637,12
+Arthritis,Etanercept,23,7.696,101.729,783.052,7.697,7.222,7.613,13
+Arthritis,Diclofenac,7,7.143,26.159,202.341,7.735,7.222,7.521,14
+Arthritis,Hydroxychloroquine,19,7.316,99.605,736.778,7.397,7.222,7.36,15
+Arthritis,Acetaminophen / hydrocodone,5,6.6,24.415,178.723,7.32,7.222,7.271,16
+Arthritis,Arthrotec,3,6.667,13.736,100.167,7.292,7.222,7.248,17
+Arthritis,Tofacitinib,12,7.0,53.63,382.896,7.14,7.222,7.164,18
+Arthritis,Xeljanz,6,7.0,26.834,189.857,7.075,7.222,7.142,19
+Arthritis,Rituximab,11,6.909,54.074,381.361,7.053,7.222,7.105,20
+Arthritis,Arava,6,6.833,33.243,230.166,6.924,7.222,7.059,21
+Arthritis,Humira,18,6.667,91.42,624.981,6.836,7.222,6.92,22
+Arthritis,Methotrexate,21,6.476,103.637,684.826,6.608,7.222,6.726,23
+Arthritis,Meloxicam,9,5.889,40.289,258.988,6.428,7.222,6.712,24
+Arthritis,Abatacept,6,6.5,22.345,138.046,6.178,7.222,6.653,25
+Arthritis,Mobic,4,4.75,20.378,105.636,5.184,7.222,6.316,26
+Arthritis,Plaquenil,9,5.889,43.179,243.063,5.629,7.222,6.198,27
+Arthritis,Adalimumab,16,5.312,71.388,410.577,5.751,7.222,6.101,28
+Arthritis,Leflunomide,9,5.222,42.183,229.169,5.433,7.222,6.072,29
+Bronchial Asthma,Ciclesonide,4,9.75,12.973,128.038,9.869,6.818,8.174,1
+Bronchial Asthma,Omalizumab,10,7.9,40.944,354.814,8.666,6.818,8.05,2
+Bronchial Asthma,Dulera,11,8.455,36.153,301.812,8.348,6.818,7.87,3
+Bronchial Asthma,Breo Ellipta,8,8.125,27.438,221.705,8.08,6.818,7.595,4
+Bronchial Asthma,Symbicort,13,7.692,53.271,412.871,7.75,6.818,7.491,5
+Bronchial Asthma,Ventolin HFA,3,8.0,8.864,73.307,8.271,6.818,7.363,6
+Bronchial Asthma,Asmanex Twisthaler,4,7.75,14.242,111.836,7.853,6.818,7.278,7
+Bronchial Asthma,Fluticasone / salmeterol,12,7.25,45.837,334.284,7.293,6.818,7.153,8
+Bronchial Asthma,Xolair,7,6.714,23.936,176.222,7.362,6.818,7.135,9
+Bronchial Asthma,Prednisone,10,6.4,38.876,279.316,7.185,6.818,7.063,10
+Bronchial Asthma,Singulair,23,7.043,105.913,748.941,7.071,6.818,7.026,11
+Bronchial Asthma,Advair Diskus,13,6.846,48.405,338.38,6.991,6.818,6.943,12
+Bronchial Asthma,Mometasone,3,7.333,11.286,80.507,7.133,6.818,6.936,13
+Bronchial Asthma,Qvar,4,6.75,17.775,121.546,6.838,6.818,6.827,14
+Bronchial Asthma,Fluticasone,3,6.333,8.864,56.636,6.39,6.818,6.657,15
+Bronchial Asthma,Montelukast,47,6.447,194.775,1269.253,6.517,6.818,6.545,16
+Bronchial Asthma,Budesonide,3,6.333,10.294,60.621,5.889,6.818,6.469,17
+Bronchial Asthma,Fluticasone / vilanterol,9,6.0,32.8,193.472,5.899,6.818,6.227,18
+Bronchial Asthma,Flovent,3,4.0,12.21,45.599,3.734,6.818,5.662,19
+Bronchial Asthma,Beclomethasone,10,4.7,36.388,173.83,4.777,6.818,5.457,20
+Bronchial Asthma,Albuterol,15,4.6,44.637,214.789,4.812,6.818,5.313,21
+Bronchial Asthma,ProAir RespiClick,7,1.0,19.226,19.226,1.0,6.818,3.424,22
+Common Cold,Dexbrompheniramine / pseudoephedrine,4,10.0,12.795,127.948,10.0,8.8,9.333,1
+Common Cold,Echinacea,4,8.75,11.283,107.834,9.557,8.8,9.136,2
+Common Cold,Chlorpheniramine / phenylephrine,3,9.667,6.912,66.511,9.622,8.8,9.108,3
+Common Cold,Tussionex Pennkinetic,4,9.5,13.166,124.868,9.484,8.8,9.104,4
+Common Cold,Chlorpheniramine / hydrocodone,3,8.0,9.586,80.205,8.367,8.8,8.638,5
+Diabetes,Liraglutide,89,8.528,373.611,3203.53,8.574,6.97,8.489,1
+Diabetes,"Insulin inhalation, rapid acting",17,8.294,71.746,627.678,8.749,6.97,8.344,2
+Diabetes,Repaglinide,3,9.333,11.916,111.574,9.364,6.97,7.867,3
+Diabetes,Exenatide,53,7.623,211.04,1675.504,7.939,6.97,7.856,4
+Diabetes,Lantus,3,9.333,12.279,113.737,9.263,6.97,7.829,5
+Diabetes,Victoza,98,7.776,404.113,3154.438,7.806,6.97,7.765,6
+Diabetes,Empagliflozin / linagliptin,3,9.0,7.787,70.716,9.081,6.97,7.761,7
+Diabetes,Glyburide,3,9.0,14.084,126.76,9.0,6.97,7.731,8
+Diabetes,Jardiance,12,7.833,52.246,419.106,8.022,6.97,7.712,9
+Diabetes,Byetta,18,7.611,73.69,582.888,7.91,6.97,7.706,10
+Diabetes,Pioglitazone,7,8.0,29.092,229.851,7.901,6.97,7.513,11
+Diabetes,Afrezza,8,7.25,33.346,257.824,7.732,6.97,7.439,12
+Diabetes,Amaryl,5,7.6,25.916,199.916,7.714,6.97,7.342,13
+Diabetes,Canagliflozin,50,6.84,215.904,1550.992,7.184,6.97,7.164,14
+Diabetes,Saxagliptin,4,7.25,17.866,130.603,7.31,6.97,7.121,15
+Diabetes,Glimepiride,5,7.0,22.082,160.489,7.268,6.97,7.119,16
+Diabetes,Sitagliptin,16,6.875,67.056,479.073,7.144,6.97,7.103,17
+Diabetes,Invokana,48,6.521,208.484,1451.401,6.962,6.97,6.962,18
+Diabetes,Insulin detemir,6,6.833,21.546,149.644,6.945,6.97,6.956,19
+Diabetes,Glipizide,7,6.714,33.084,229.794,6.946,6.97,6.956,20
+Diabetes,Bydureon,36,6.667,141.504,983.104,6.948,6.97,6.95,21
+Diabetes,Dapagliflozin,15,6.467,55.249,375.609,6.798,6.97,6.841,22
+Diabetes,Januvia,13,6.538,64.99,432.227,6.651,6.97,6.739,23
+Diabetes,Kombiglyze XR,4,6.5,16.935,109.239,6.45,6.97,6.739,24
+Diabetes,Novolog,3,6.0,8.62,54.645,6.339,6.97,6.733,25
+Diabetes,Trulicity,68,6.485,264.688,1727.203,6.525,6.97,6.556,26
+Diabetes,Metformin,26,6.269,114.928,729.608,6.348,6.97,6.449,27
+Diabetes,Janumet,8,5.75,38.59,229.978,5.96,6.97,6.348,28
+Diabetes,Actos,7,5.857,29.649,174.7,5.892,6.97,6.341,29
+Diabetes,Glucophage,6,5.833,31.558,182.711,5.79,6.97,6.326,30
+Diabetes,Dulaglutide,68,6.088,261.456,1622.959,6.207,6.97,6.26,31
+Diabetes,Empagliflozin,13,5.462,49.959,282.557,5.656,6.97,6.021,32
+Diabetes,Insulin degludec,9,5.0,33.165,172.972,5.215,6.97,5.842,33
+Diabetes,Tresiba,14,5.429,48.335,261.822,5.417,6.97,5.825,34
+Diabetes,Insulin aspart,3,4.333,8.981,35.051,3.903,6.97,5.819,35
+Diabetes,Insulin glargine,11,4.909,35.128,172.495,4.91,6.97,5.554,36
+Diabetes,Linagliptin,10,4.8,39.556,191.525,4.842,6.97,5.551,37
+Diabetes,Farxiga,15,4.733,56.789,270.984,4.772,6.97,5.321,38
+Diabetes,Tradjenta,5,3.0,22.93,67.067,2.925,6.97,4.947,39
+Diabetes,Tanzeum,5,3.8,9.094,23.787,2.616,6.97,4.793,40
+Dimorphic hemmorhoids(piles),Pramoxine,11,9.545,41.003,392.509,9.573,9.3,9.487,1
+Dimorphic hemmorhoids(piles),Hydrocortisone / pramoxine,5,9.6,20.169,194.342,9.636,9.3,9.468,2
+Dimorphic hemmorhoids(piles),Proctofoam,8,9.375,28.763,268.734,9.343,9.3,9.326,3
+Fungal infection,Nystatin / triamcinolone,3,10.0,8.037,80.37,10.0,7.938,8.711,1
+Fungal infection,Econazole,4,8.75,12.302,107.521,8.74,7.938,8.294,2
+Fungal infection,Lamisil,3,9.0,10.19,89.975,8.83,7.938,8.272,3
+Fungal infection,Undecylenic acid,3,5.667,7.718,55.174,7.148,7.938,7.642,4
+Fungal infection,Selenium sulfide,4,6.0,16.198,98.937,6.108,7.938,7.124,5
+Fungal infection,Terbinafine,6,5.5,16.799,83.916,4.995,7.938,6.333,6
+GERD,Rabeprazole,10,9.7,39.483,384.981,9.75,7.476,8.992,1
+GERD,Prevacid,9,9.556,35.888,345.102,9.616,7.476,8.852,2
+GERD,Aciphex,7,9.571,29.706,283.991,9.56,7.476,8.691,3
+GERD,Omeprazole / sodium bicarbonate,7,9.0,25.852,230.961,8.934,7.476,8.326,4
+GERD,Prilosec OTC,4,9.0,18.81,169.419,9.007,7.476,8.156,5
+GERD,Prilosec,5,8.8,24.427,214.341,8.775,7.476,8.125,6
+GERD,Lansoprazole,9,8.111,34.651,289.434,8.353,7.476,8.039,7
+GERD,Omeprazole,17,8.0,69.796,567.643,8.133,7.476,7.983,8
+GERD,Esomeprazole,15,7.867,58.211,473.606,8.136,7.476,7.971,9
+GERD,Famotidine,4,8.5,14.91,126.752,8.501,7.476,7.931,10
+GERD,Ranitidine,24,7.625,104.412,826.253,7.913,7.476,7.838,11
+GERD,Zantac 150,5,8.0,21.049,170.772,8.113,7.476,7.794,12
+GERD,Sucralfate,3,7.667,12.593,91.98,7.304,7.476,7.411,13
+GERD,Nexium,19,7.316,83.877,619.055,7.38,7.476,7.4,14
+GERD,Pantoprazole,19,7.0,82.7,597.208,7.221,7.476,7.274,15
+GERD,Protonix,12,7.167,60.109,426.584,7.097,7.476,7.208,16
+GERD,Dexilant,24,7.0,110.978,784.07,7.065,7.476,7.136,17
+GERD,Kapidex,5,6.0,17.971,106.421,5.922,7.476,6.699,18
+GERD,Dexlansoprazole,28,6.464,115.618,723.07,6.254,7.476,6.439,19
+GERD,Metoclopramide,7,3.429,22.197,86.046,3.877,7.476,5.376,20
+Hepatitis C,Daclatasvir,5,9.6,13.081,128.815,9.847,8.412,9.13,1
+Hepatitis C,Daklinza,4,10.0,12.701,127.005,10.0,8.412,9.118,2
+Hepatitis C,Harvoni,70,8.957,297.027,2681.117,9.027,8.412,8.986,3
+Hepatitis C,Elbasvir / grazoprevir,8,9.125,28.283,258.066,9.124,8.412,8.85,4
+Hepatitis C,Sofosbuvir,15,8.267,51.696,455.748,8.816,8.412,8.715,5
+Hepatitis C,Zepatier,10,8.7,31.511,274.628,8.715,8.412,8.614,6
+Hepatitis C,Sovaldi,8,8.625,25.597,222.491,8.692,8.412,8.585,7
+Hepatitis C,Sofosbuvir / velpatasvir,16,8.312,58.64,500.62,8.537,8.412,8.507,8
+Hepatitis C,Ledipasvir / sofosbuvir,77,8.338,328.417,2792.057,8.502,8.412,8.496,9
+Hepatitis C,Peginterferon alfa-2a,4,7.0,9.935,68.328,6.878,8.412,7.73,10
+Hepatitis C,Epclusa,15,7.533,52.303,389.145,7.44,8.412,7.683,11
+Hypertension,Amlodipine / olmesartan,19,8.421,66.807,563.989,8.442,6.137,7.962,1
+Hypertension,Benicar,25,8.24,120.063,990.383,8.249,6.137,7.897,2
+Hypertension,Ramipril,10,8.3,44.711,373.691,8.358,6.137,7.617,3
+Hypertension,Azor,13,7.923,49.538,399.408,8.063,6.137,7.528,4
+Hypertension,Exforge HCT,3,9.667,9.031,86.049,9.528,6.137,7.409,5
+Hypertension,Spironolactone,3,9.333,15.336,144.769,9.44,6.137,7.375,6
+Hypertension,Benicar HCT,6,7.333,20.558,166.241,8.087,6.137,7.2,7
+Hypertension,Olmesartan,22,7.364,100.553,739.581,7.355,6.137,7.13,8
+Hypertension,Atenolol,19,7.263,82.777,594.373,7.18,6.137,6.963,9
+Hypertension,Bisoprolol / hydrochlorothiazide,8,7.125,25.562,190.759,7.463,6.137,6.953,10
+Hypertension,Bystolic,35,6.8,163.648,1146.417,7.005,6.137,6.897,11
+Hypertension,Azilsartan medoxomil,5,8.2,13.346,101.372,7.596,6.137,6.866,12
+Hypertension,Verapamil,5,7.6,21.965,166.74,7.591,6.137,6.864,13
+Hypertension,Azilsartan medoxomil / chlorthalidone,3,7.333,8.576,68.971,8.042,6.137,6.851,14
+Hypertension,Diovan HCT,7,7.429,28.48,209.184,7.345,6.137,6.841,15
+Hypertension,Coreg,4,7.5,19.827,153.05,7.719,6.137,6.84,16
+Hypertension,Hydrochlorothiazide / lisinopril,8,6.75,35.623,258.707,7.262,6.137,6.829,17
+Hypertension,Lotrel,5,7.8,18.947,138.512,7.311,6.137,6.724,18
+Hypertension,Hydrochlorothiazide / valsartan,4,7.5,14.889,109.539,7.357,6.137,6.679,19
+Hypertension,Tekturna,3,7.333,12.298,92.559,7.526,6.137,6.658,20
+Hypertension,Clonidine,11,6.545,49.887,342.078,6.857,6.137,6.632,21
+Hypertension,Ziac,4,7.25,14.684,105.986,7.218,6.137,6.617,22
+Hypertension,Amlodipine / benazepril,4,7.25,17.14,120.949,7.056,6.137,6.545,23
+Hypertension,Hydrochlorothiazide / triamterene,5,6.8,21.866,150.783,6.896,6.137,6.516,24
+Hypertension,Edarbyclor,3,6.333,10.757,76.637,7.125,6.137,6.507,25
+Hypertension,Edarbi,3,7.0,9.557,67.853,7.1,6.137,6.498,26
+Hypertension,Aliskiren,6,6.833,21.29,144.307,6.778,6.137,6.487,27
+Hypertension,Terazosin,3,6.667,12.042,84.734,7.037,6.137,6.474,28
+Hypertension,Guanfacine,5,6.6,16.694,111.182,6.66,6.137,6.398,29
+Hypertension,Nebivolol,29,6.276,135.004,864.853,6.406,6.137,6.367,30
+Hypertension,Avapro,3,6.333,16.092,103.135,6.409,6.137,6.239,31
+Hypertension,Metoprolol,37,6.216,180.765,1127.574,6.238,6.137,6.226,32
+Hypertension,Cozaar,13,6.154,72.608,452.288,6.229,6.137,6.203,33
+Hypertension,Telmisartan,8,6.125,39.808,242.554,6.093,6.137,6.11,34
+Hypertension,Valsartan,14,6.0,65.219,394.039,6.042,6.137,6.067,35
+Hypertension,Exforge,12,6.083,51.573,309.908,6.009,6.137,6.047,36
+Hypertension,Diltiazem,9,5.778,37.392,222.408,5.948,6.137,6.015,37
+Hypertension,Amlodipine / hydrochlorothiazide / olmesartan,4,6.75,10.474,61.213,5.844,6.137,6.007,38
+Hypertension,Nifedipine,8,5.25,33.923,192.073,5.662,6.137,5.845,39
+Hypertension,Hydrochlorothiazide,25,5.76,123.753,712.847,5.76,6.137,5.823,40
+Hypertension,Tenormin,4,5.5,21.186,114.74,5.416,6.137,5.816,41
+Hypertension,Diovan,9,5.333,46.218,254.629,5.509,6.137,5.733,42
+Hypertension,Lisinopril,87,5.46,414.416,2313.754,5.583,6.137,5.613,43
+Hypertension,Enalapril,4,5.0,15.048,74.418,4.945,6.137,5.607,44
+Hypertension,Hydrochlorothiazide / olmesartan,7,5.143,25.7,133.045,5.177,6.137,5.577,45
+Hypertension,Carvedilol,19,5.316,89.991,478.163,5.313,6.137,5.485,46
+Hypertension,Losartan,54,5.426,268.636,1442.582,5.37,6.137,5.435,47
+Hypertension,Micardis,7,4.571,36.632,169.148,4.618,6.137,5.251,48
+Hypertension,Propranolol,5,4.2,20.24,86.602,4.279,6.137,5.208,49
+Hypertension,Hydrochlorothiazide / losartan,11,4.636,46.293,212.786,4.596,6.137,5.078,50
+Hypertension,Irbesartan,13,4.462,61.746,287.519,4.657,6.137,5.068,51
+Hypertension,Norvasc,18,4.167,100.791,424.261,4.209,6.137,4.628,52
+Hypertension,Amlodipine,63,4.0,309.693,1266.273,4.089,6.137,4.239,53
+Hypertension,Hydralazine,7,1.714,28.02,49.264,1.758,6.137,3.583,54
+Hypothyroidism,Liothyronine,12,8.333,63.507,541.975,8.534,6.852,8.039,1
+Hypothyroidism,Thyroid desiccated,27,7.407,140.575,1106.775,7.873,6.852,7.714,2
+Hypothyroidism,Tirosint,4,8.25,19.827,164.069,8.275,6.852,7.484,3
+Hypothyroidism,Armour Thyroid,14,7.714,65.509,500.986,7.648,6.852,7.438,4
+Hypothyroidism,Levoxyl,4,8.25,15.545,122.089,7.854,6.852,7.297,5
+Hypothyroidism,Cytomel,5,6.2,28.194,185.564,6.582,6.852,6.717,6
+Hypothyroidism,Levothyroxine,63,6.46,287.368,1909.894,6.646,6.852,6.661,7
+Hypothyroidism,Synthroid,21,5.333,103.404,578.96,5.599,6.852,5.84,8
+Migraine,Naproxen / sumatriptan,26,9.308,77.311,741.128,9.586,7.673,9.278,1
+Migraine,Relpax,20,9.55,68.322,652.243,9.547,7.673,9.172,2
+Migraine,Frova,9,9.889,29.943,296.635,9.907,7.673,9.109,3
+Migraine,Frovatriptan,12,9.583,36.655,352.163,9.607,7.673,9.038,4
+Migraine,Aspirin / butalbital / caffeine,14,9.071,51.761,488.462,9.437,7.673,8.973,5
+Migraine,Eletriptan,32,9.188,104.604,956.541,9.144,7.673,8.946,6
+Migraine,Diclofenac,10,8.8,37.295,353.245,9.472,7.673,8.872,7
+Migraine,Treximet,25,9.0,75.047,675.73,9.004,7.673,8.782,8
+Migraine,Rizatriptan,53,8.755,156.807,1385.772,8.837,7.673,8.737,9
+Migraine,Maxalt,23,8.957,78.416,701.987,8.952,7.673,8.724,10
+Migraine,Maxalt-MLT,22,8.682,73.85,658.555,8.918,7.673,8.687,11
+Migraine,Sumavel DosePro,11,8.909,34.878,317.863,9.114,7.673,8.663,12
+Migraine,Cyclobenzaprine,12,9.083,47.044,424.489,9.023,7.673,8.626,13
+Migraine,Amlodipine,7,9.143,30.14,277.253,9.199,7.673,8.563,14
+Migraine,Almotriptan,9,9.0,25.62,231.831,9.049,7.673,8.558,15
+Migraine,Clonazepam,8,9.0,33.026,298.957,9.052,7.673,8.522,16
+Migraine,Nadolol,4,9.25,16.682,154.661,9.271,7.673,8.383,17
+Migraine,Imitrex Statdose,3,9.333,6.332,59.936,9.465,7.673,8.345,18
+Migraine,Cambia,11,8.0,39.579,341.094,8.618,7.673,8.323,19
+Migraine,Naratriptan,6,8.167,17.215,152.057,8.833,7.673,8.306,20
+Migraine,Gabapentin,17,8.529,77.969,660.058,8.466,7.673,8.286,21
+Migraine,Lisinopril,6,8.0,23.53,205.91,8.751,7.673,8.261,22
+Migraine,Fiorinal,5,8.2,19.919,175.51,8.811,7.673,8.242,23
+Migraine,Amerge,6,8.5,20.61,179.514,8.71,7.673,8.239,24
+Migraine,Pamelor,4,8.75,22.23,196.752,8.851,7.673,8.197,25
+Migraine,Sumatriptan,59,8.085,160.916,1304.389,8.106,7.673,8.072,26
+Migraine,Nortriptyline,36,7.972,158.817,1289.213,8.118,7.673,8.063,27
+Migraine,Migranal,3,7.0,6.091,51.91,8.522,7.673,7.992,28
+Migraine,Depakote ER,7,8.0,29.975,243.052,8.108,7.673,7.927,29
+Migraine,Flexeril,3,8.333,14.326,119.35,8.331,7.673,7.92,30
+Migraine,Elavil,10,7.8,47.956,382.884,7.984,7.673,7.88,31
+Migraine,Amitriptyline,56,7.679,237.37,1873.159,7.891,7.673,7.873,32
+Migraine,Propranolol,36,7.778,152.857,1206.606,7.894,7.673,7.867,33
+Migraine,Pregabalin,3,8.667,10.981,89.387,8.14,7.673,7.848,34
+Migraine,Botox,18,7.556,79.301,617.706,7.789,7.673,7.764,35
+Migraine,Zolmitriptan,25,7.64,65.285,507.717,7.777,7.673,7.76,36
+Migraine,Atenolol,6,7.833,24.338,189.996,7.807,7.673,7.746,37
+Migraine,Cyproheptadine,6,7.5,26.364,204.573,7.76,7.673,7.72,38
+Migraine,Inderal LA,3,7.667,14.782,114.7,7.76,7.673,7.706,39
+Migraine,Acetaminophen / aspirin / caffeine,24,7.375,75.208,577.25,7.675,7.673,7.675,40
+Migraine,Depakote,10,7.3,40.425,308.271,7.626,7.673,7.642,41
+Migraine,Axert,5,7.4,15.23,113.086,7.425,7.673,7.549,42
+Migraine,Inderal,9,7.222,40.396,300.226,7.432,7.673,7.518,43
+Migraine,Cafergot,3,7.333,8.897,63.428,7.129,7.673,7.469,44
+Migraine,Imitrex,31,7.419,108.632,805.333,7.413,7.673,7.449,45
+Migraine,Candesartan,3,6.333,10.671,66.374,6.22,7.673,7.128,46
+Migraine,OnabotulinumtoxinA,19,6.737,79.303,547.196,6.9,7.673,7.061,47
+Migraine,Zonisamide,5,6.0,20.667,128.314,6.208,7.673,6.941,48
+Migraine,Dihydroergotamine,7,5.429,22.454,138.568,6.171,7.673,6.797,49
+Migraine,Verapamil,10,6.2,46.414,293.171,6.316,7.673,6.769,50
+Migraine,Divalproex sodium,14,6.143,50.991,322.786,6.33,7.673,6.684,51
+Migraine,Topiramate,106,6.538,421.557,2793.078,6.626,7.673,6.673,52
+Migraine,Zomig,18,6.278,48.258,306.208,6.345,7.673,6.634,53
+Migraine,Topamax,60,6.117,259.761,1614.08,6.214,7.673,6.326,54
+Migraine,Excedrin,4,3.5,7.989,26.425,3.308,7.673,5.733,55
+Migraine,Reglan,18,4.0,66.638,282.494,4.239,7.673,4.986,56
+Migraine,Metoclopramide,28,3.571,89.078,296.306,3.326,7.673,3.985,57
+Osteoarthristis,Voltaren,9,9.556,47.424,452.737,9.547,7.264,8.731,1
+Osteoarthristis,Diclofenac / misoprostol,10,9.3,47.555,440.666,9.266,7.264,8.599,2
+Osteoarthristis,Diclofenac,21,8.667,91.292,798.594,8.748,7.264,8.462,3
+Osteoarthristis,Lodine,3,9.667,14.663,140.939,9.612,7.264,8.144,4
+Osteoarthristis,Pennsaid,5,8.2,22.342,196.904,8.813,7.264,8.038,5
+Osteoarthristis,Synvisc,12,8.0,50.977,420.041,8.24,7.264,7.953,6
+Osteoarthristis,Voltaren Gel,12,8.0,60.074,487.245,8.111,7.264,7.862,7
+Osteoarthristis,Meloxicam,29,7.793,130.069,1033.944,7.949,7.264,7.848,8
+Osteoarthristis,Naproxen,11,8.0,40.903,330.014,8.068,7.264,7.817,9
+Osteoarthristis,Euflexxa,31,7.548,141.312,1117.204,7.906,7.264,7.817,10
+Osteoarthristis,Mobic,12,7.417,60.537,468.922,7.746,7.264,7.604,11
+Osteoarthristis,Famotidine / ibuprofen,4,8.25,8.431,67.369,7.991,7.264,7.587,12
+Osteoarthristis,Etodolac,6,7.333,22.875,173.973,7.605,7.264,7.45,13
+Osteoarthristis,Sodium hyaluronate,44,6.864,195.109,1414.931,7.252,7.264,7.253,14
+Osteoarthristis,Orthovisc,24,7.042,110.018,793.775,7.215,7.264,7.223,15
+Osteoarthristis,Hyaluronan,28,6.857,121.277,867.187,7.15,7.264,7.168,16
+Osteoarthristis,Duloxetine,3,6.0,15.385,92.17,5.991,7.264,6.786,17
+Osteoarthristis,Celebrex,17,6.118,81.427,529.549,6.503,7.264,6.676,18
+Osteoarthristis,Celecoxib,12,6.0,55.45,350.038,6.313,7.264,6.592,19
+Osteoarthristis,Supartz,4,4.25,14.928,75.468,5.056,7.264,6.282,20
+Osteoarthristis,Hylan g-f 20,22,6.136,90.813,544.826,5.999,7.264,6.234,21
+Osteoarthristis,Capsaicin,3,4.0,10.678,46.113,4.319,7.264,6.159,22
+Osteoarthristis,Synvisc-One,19,4.789,84.306,415.679,4.931,7.264,5.417,23
+Pneumonia,Ceftriaxone,3,10.0,10.167,101.67,10.0,6.932,8.082,1
+Pneumonia,Azithromycin,4,8.75,17.838,156.257,8.76,6.932,7.744,2
+Pneumonia,Doxycycline,4,8.5,17.765,154.597,8.702,6.932,7.719,3
+Pneumonia,Moxifloxacin,7,8.143,26.612,217.244,8.163,6.932,7.65,4
+Pneumonia,Clarithromycin,9,7.889,30.978,247.7,7.996,6.932,7.616,5
+Pneumonia,Levaquin,16,6.0,69.805,449.172,6.435,6.932,6.553,6
+Pneumonia,Avelox,6,5.833,23.719,139.722,5.891,6.932,6.364,7
+Pneumonia,Levofloxacin,21,5.571,85.545,512.054,5.986,6.932,6.168,8
+Psoriasis,Clobetasol,16,9.312,63.58,595.425,9.365,7.392,8.895,1
+Psoriasis,Ustekinumab,22,9.0,97.196,881.853,9.073,7.392,8.762,2
+Psoriasis,Cosentyx,7,9.286,29.517,281.917,9.551,7.392,8.651,3
+Psoriasis,Ixekizumab,10,8.5,31.237,270.656,8.665,7.392,8.24,4
+Psoriasis,Secukinumab,3,9.333,10.535,98.953,9.393,7.392,8.142,5
+Psoriasis,Halobetasol,3,9.333,8.663,81.046,9.355,7.392,8.128,6
+Psoriasis,Mometasone,3,9.333,11.237,104.776,9.324,7.392,8.116,7
+Psoriasis,Enbrel,5,8.6,17.452,153.985,8.823,7.392,8.108,8
+Psoriasis,Taltz,6,8.5,20.874,181.156,8.679,7.392,8.094,9
+Psoriasis,Elocon,3,9.0,13.871,125.091,9.018,7.392,8.002,10
+Psoriasis,Stelara,27,7.926,121.085,977.16,8.07,7.392,7.964,11
+Psoriasis,Clobex,4,8.5,17.216,146.572,8.514,7.392,7.891,12
+Psoriasis,Etanercept,7,7.857,22.146,179.602,8.11,7.392,7.811,13
+Psoriasis,Triamcinolone,3,8.333,10.021,84.075,8.39,7.392,7.766,14
+Psoriasis,Humira,23,7.522,92.637,717.196,7.742,7.392,7.679,15
+Psoriasis,Calcipotriene,5,7.8,19.892,154.565,7.77,7.392,7.581,16
+Psoriasis,Psoriasin,3,6.333,10.853,80.652,7.431,7.392,7.407,17
+Psoriasis,Betamethasone / calcipotriene,16,7.062,49.882,353.157,7.08,7.392,7.154,18
+Psoriasis,Methotrexate,15,6.733,61.644,427.178,6.93,7.392,7.045,19
+Psoriasis,Taclonex,7,6.429,24.161,162.868,6.741,7.392,7.012,20
+Psoriasis,Adalimumab,25,6.4,96.65,668.769,6.92,7.392,6.998,21
+Psoriasis,Otezla,22,4.864,82.835,432.57,5.222,7.392,5.624,22
+Psoriasis,Apremilast,31,5.258,113.623,600.338,5.284,7.392,5.576,23
+Urinary tract infection,Ceftriaxone,5,9.6,20.913,198.947,9.513,5.483,7.498,1
+Urinary tract infection,Hiprex,3,9.333,14.048,130.766,9.308,5.483,6.917,2
+Urinary tract infection,Bactrim DS,19,6.947,78.281,556.051,7.103,5.483,6.766,3
+Urinary tract infection,Hyoscyamine / methenamine / methylene blue / phenyl salicylate / sodium biphosphate,3,8.667,16.397,143.803,8.77,5.483,6.715,4
+Urinary tract infection,Hyoscyamine / methenamine / methylene blue / phenyl salicylate,3,7.0,8.075,69.449,8.6,5.483,6.652,5
+Urinary tract infection,Cefuroxime,3,6.667,12.333,102.63,8.321,5.483,6.547,6
+Urinary tract infection,Doxycycline,3,8.333,12.166,100.422,8.254,5.483,6.522,7
+Urinary tract infection,Amoxicillin,4,7.0,19.529,144.128,7.38,5.483,6.326,8
+Urinary tract infection,Amoxicillin / clavulanate,3,6.667,12.36,83.245,6.735,5.483,5.952,9
+Urinary tract infection,Cipro,26,5.769,125.628,757.883,6.033,5.483,5.944,10
+Urinary tract infection,Ciprofloxacin,61,5.639,250.736,1498.688,5.977,5.483,5.94,11
+Urinary tract infection,Levofloxacin,9,6.222,35.836,221.058,6.169,5.483,5.924,12
+Urinary tract infection,SMZ-TMP DS,3,5.667,12.875,78.905,6.129,5.483,5.725,13
+Urinary tract infection,Nitrofurantoin,110,5.245,386.548,2137.896,5.531,5.483,5.529,14
+Urinary tract infection,Macrobid,48,5.312,196.435,1071.167,5.453,5.483,5.456,15
+Urinary tract infection,Sulfamethoxazole / trimethoprim,78,4.551,292.226,1429.762,4.893,5.483,4.928,16
+Urinary tract infection,Levaquin,6,4.333,26.415,106.68,4.039,5.483,4.695,17
+Urinary tract infection,Trimethoprim,5,3.4,16.614,54.208,3.263,5.483,4.373,18
+Urinary tract infection,Bactrim,21,3.952,79.009,314.514,3.981,5.483,4.27,19
