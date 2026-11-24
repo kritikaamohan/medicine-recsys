@@ -1,4 +1,4 @@
-# 💊 Personalized Healthcare & Medicine Recommendation System
+# Personalized Healthcare & Medicine Recommendation System
 
 A machine-learning app that takes a user's symptoms and basic profile, predicts the most likely conditions, and suggests top-rated medicines from real patient reviews.
 
