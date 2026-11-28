@@ -1,0 +1,22 @@
+file,column,description
+outputs/drug_rankings.csv,disease,Condition name from the symptom dataset
+outputs/drug_rankings.csv,drugName,Medicine name from Drugs.com reviews
+outputs/drug_rankings.csv,n_reviews,Number of reviews for this medicine and condition
+outputs/drug_rankings.csv,mean_rating,Average patient rating (1-10)
+outputs/drug_rankings.csv,w_sum,Sum of review weights (weight = 1 + log(1 + useful count))
+outputs/drug_rankings.csv,wr_sum,Sum of rating x weight
+outputs/drug_rankings.csv,wmean,Weighted average rating
+outputs/drug_rankings.csv,prior,Average rating of all medicines for the condition
+outputs/drug_rankings.csv,score,Bayesian-style score: (n x wmean + 5 x prior) / (n + 5)
+outputs/drug_rankings.csv,rank,Rank of the medicine within its condition (1 = best)
+outputs/description.csv,Disease,Condition name
+outputs/description.csv,Description,Short plain-language description of the condition
+outputs/precautions_df.csv,Disease,Condition name
+outputs/precautions_df.csv,Precaution_1..Precaution_4,Self-care tips for the condition
+outputs/disease_profiles.csv,disease,Condition name
+outputs/disease_profiles.csv,symptoms,Typical symptoms of the condition separated by | (from the unique training rows)
+outputs/stress_test.csv,symptoms_kept,Fraction of each row's symptoms kept in the stress test
+outputs/stress_test.csv,top1,Top-1 accuracy in 5-fold cross-validation
+outputs/stress_test.csv,top3,Top-3 accuracy in 5-fold cross-validation
+models/symptom_model.joblib,model,Random Forest classifier (200 trees) trained on 304 unique rows
+models/symptom_model.joblib,symptoms,List of the 131 symptom features in model order
