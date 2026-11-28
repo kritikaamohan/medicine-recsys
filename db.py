@@ -85,10 +85,20 @@ def login(username, password, path=None):
     return None
 
 
+def _default(obj):
+    """Let json handle pandas DataFrames and numpy numbers found in a result."""
+    if hasattr(obj, "to_dict"):
+        return obj.to_dict("records")
+    if hasattr(obj, "item"):
+        return obj.item()
+    raise TypeError(f"Cannot save {type(obj)}")
+
+
 def save_check(user_id, res, path=None):
     with closing(_connect(path)) as conn, conn:
         conn.execute("INSERT INTO checks (user_id, created_at, result_json) VALUES (?, ?, ?)",
-                     (user_id, datetime.now().isoformat(timespec="seconds"), json.dumps(res)))
+                     (user_id, datetime.now().isoformat(timespec="seconds"),
+                      json.dumps(res, default=_default)))
 
 
 def list_checks(user_id, path=None):

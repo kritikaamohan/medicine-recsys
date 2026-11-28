@@ -8,7 +8,23 @@ from reportlab.lib.styles import ParagraphStyle, getSampleStyleSheet
 from reportlab.lib.units import mm
 from reportlab.platypus import Paragraph, SimpleDocTemplate, Spacer, Table, TableStyle
 
-from engine import DISCLAIMER, match_text, nice
+DISCLAIMER = ("MediGuide gives general information only. It is not a diagnosis or medical "
+              "advice. Always check with a doctor or pharmacist before taking any medicine.")
+
+
+def nice(s):
+    return s.replace("_", " ")
+
+
+def match_text(share):
+    return "Strong match" if share >= 0.7 else "Possible match" if share >= 0.4 else "Weak match"
+
+
+def _drugs(r):
+    """Medicines as a list of dicts, whether stored as a DataFrame or a list."""
+    d = r.get("drugs", [])
+    return d.to_dict("records") if hasattr(d, "to_dict") else list(d)
+
 
 TEAL = colors.HexColor("#0F9D8A")
 
@@ -68,9 +84,10 @@ def build_pdf(res, username=None):
         if r["removed"]:
             story.append(Paragraph("Left out because of your allergy: " +
                                    _esc(", ".join(r["removed"])), small))
-        if r["drugs"]:
+        drugs = _drugs(r)
+        if drugs:
             rows = [["Medicine", "Reviews", "Avg rating (/10)"]] + [
-                [_esc(x["drugName"]), x["n_reviews"], x["mean_rating"]] for x in r["drugs"][:5]]
+                [_esc(x["drugName"]), int(x["n_reviews"]), x["mean_rating"]] for x in drugs[:5]]
             t = Table(rows, colWidths=[95 * mm, 25 * mm, 40 * mm], repeatRows=1)
             t.setStyle(TableStyle([
                 ("BACKGROUND", (0, 0), (-1, 0), TEAL), ("TEXTCOLOR", (0, 0), (-1, 0), colors.white),
